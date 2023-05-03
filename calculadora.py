@@ -136,4 +136,3 @@ def limpar_tela():
     valor_texto.set("")
 
 janela.mainloop()
-
