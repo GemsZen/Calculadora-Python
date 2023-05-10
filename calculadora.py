@@ -147,4 +147,3 @@ janela.mainloop()
 
 
 
-
