@@ -138,4 +138,3 @@ def limpar_tela():
 janela.mainloop()
 
 
-
